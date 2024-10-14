@@ -1,0 +1,5 @@
+do 22.10.24r spis terści, w pełni uzupełniona bibliografia
+do 29.10.24r rozdział/dokumentacja projektowa aplikacji (założenia funkcjonalności diagramy opis architektury)
+do 26.11.24r. gotowa aplikacja wraz z wstępną dokumentacją kodu źródłowego i użytych tchnologii
+do 03.12.24r. poprawinona dokumentacja technicza \\
+do 10.12.24r. rozdział prezentacja i omówiene wyników pracy wnioski 
